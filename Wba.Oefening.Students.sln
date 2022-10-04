@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wba.Oefening.Students.Web", "Wba.Oefening.Students.Web\Wba.Oefening.Students.Web.csproj", "{F3B6AD67-B2B0-4F23-93F1-4346E234FE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wba.Oefening.Students.Core", "Wba.Oefening.Students.Core\Wba.Oefening.Students.Core.csproj", "{6EE5E134-9134-4928-A8EF-D9FAB45E59AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B6AD67-B2B0-4F23-93F1-4346E234FE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B6AD67-B2B0-4F23-93F1-4346E234FE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B6AD67-B2B0-4F23-93F1-4346E234FE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B6AD67-B2B0-4F23-93F1-4346E234FE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE5E134-9134-4928-A8EF-D9FAB45E59AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE5E134-9134-4928-A8EF-D9FAB45E59AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE5E134-9134-4928-A8EF-D9FAB45E59AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE5E134-9134-4928-A8EF-D9FAB45E59AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDF0B858-A269-4230-92F3-CDF1C21ADFB3}
+	EndGlobalSection
+EndGlobal
